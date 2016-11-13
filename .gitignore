@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+
+# IDE
+.idea
+nbproject
+
+# Phalcon Developer Tools
+application/.phalcon/migration-version
+
+# Composer
+composer.lock
+composer.phar
+
+variables.env
